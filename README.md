@@ -55,7 +55,7 @@ I'm a passionate web developer and a first-year student at the Indian Institute 
 
 *NeedNear is designed to make your life simpler by bringing trusted services to your doorstep.*
 
-#### MstryMsg
+#### MstryMsg [Link](https://github.com/mrkeshav-05/MstryMessage)
 **MstryMsg** is a platform where users can send secret messages to others. Whether you want to share a confidential note, a surprise message, or just have some fun, MstryMsg allows you to communicate anonymously and securely.
 
 **Key Features:**
